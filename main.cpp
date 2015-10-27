@@ -3,6 +3,7 @@
 #include "ConsoleColor.h"
 
 //using namespace std;
+//beleraktam még egy sort
 
 int main(int argc, char *argv[])
 {
